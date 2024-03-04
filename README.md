@@ -13,6 +13,7 @@ My first book talks about hacking and coding if your interested. https://books2r
 <h2>Social Media and Websites</h2>
 <p align="left">
       <a img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/bryan-murphy">Murphy</a>
+      <a href="https://authorbdmurphy.com">Website</a>
 </p>
 <!---
 bdmurphy73/bdmurphy73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
