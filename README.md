@@ -9,6 +9,7 @@ Links to my books if your interested:
   <a img src="https://authorbdmurphy.com/wp-content/uploads/2023/06/CoverFinished800x.jpg" alt="Deal Hunter" width="60" height="45" href="https://books2read.com/u/3LxrVN">Deal Hunter</a>
   <a img src="https://authorbdmurphy.com/wp-content/uploads/2023/11/SW-FrontCover_400x640.jpg" alt="Sidney and Watson" width="60" height="45" href="https://books2read.com/u/3y6QDv">Sidney and Watson</a>
   <a img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/bryan-murphy">Murphy</a>
+</p>
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
