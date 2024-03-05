@@ -6,14 +6,11 @@ Links to my books if your interested:
 <p align="left">
    <a href="https://books2read.com/u/4j5Jxj">
       <img alt="Pandemic Hacker" width="50" height="70" src="https://i0.wp.com/authorbdmurphy.com/wp-content/uploads/2023/09/Five-Star-cover-Pandemic-Hacker-B.D.-Murphy-RGB-scaled.jpg?resize=683%2C1024&ssl=1">Pandemic Hacker</a>
-   <a alt="Pandemic Hacker" img src="https://i0.wp.com/authorbdmurphy.com/wp-content/uploads/2023/09/Five-Star-cover-Pandemic-Hacker-B.D.-Murphy-RGB-scaled.jpg?resize=683%2C1024&ssl=1" img width="50" img height="70"  
- / href="https://books2read.com/u/4j5Jxj">Pandemic Hacker</a>
-   <img src="https://authorbdmurphy.com/wp-content/uploads/2024/03/CoverFinished_400x640.jpg" alt="Deal Hunter" width="50" height="70" />
-  <a href="https://books2read.com/u/3LxrVN">Deal Hunter</a>
-   <img src="https://authorbdmurphy.com/wp-content/uploads/2023/11/SW-FrontCover_400x640.jpg" alt="Sidney and Watson" width="50" height="70" />
-  <a href="https://books2read.com/u/3y6QDv">Sidney and Watson</a>
-  <a img src="https://github.com/bdmurphy73/bdmurphy73/blob/main/DealHunterCoverFinished_400x640.jpg" alt="Deal Hunter" width="50" height="70" href="https://books2read.com/u/3LxrVN">Deal Hunter</a>
-</p>
+  <a href="https://books2read.com/u/3LxrVN"> 
+   <img alt="Deal Hunter" width="50" height="70" src="https://authorbdmurphy.com/wp-content/uploads/2024/03/CoverFinished_400x640.jpg">Deal Hunter</a>
+  <a href="https://books2read.com/u/3y6QDv">
+   <img alt="Sidney and Watson" width="50" height="70" src="https://authorbdmurphy.com/wp-content/uploads/2023/11/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
+  </p>
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
