@@ -11,6 +11,7 @@ Links to my books if your interested:
   <a href="https://books2read.com/u/3LxrVN">Deal Hunter</a>
    <img src="https://authorbdmurphy.com/wp-content/uploads/2023/11/SW-FrontCover_400x640.jpg" alt="Sidney and Watson" width="50" height="70" />
   <a href="https://books2read.com/u/3y6QDv">Sidney and Watson</a>
+  <a img src="https://github.com/bdmurphy73/bdmurphy73/blob/main/DealHunterCoverFinished_400x640.jpg" alt="Deal Hunter" width="50" height="70" href="https://books2read.com/u/3LxrVN">Deal Hunter</a>
 </p>
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
