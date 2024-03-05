@@ -4,7 +4,7 @@ https://authorbdmurphy.com
 
 Links to my books if your interested:
 <p align="left">
-   <a img src="https://books2read.com/b/3y6QDv alt="Pandemic Hacker" width="30" height="60" />
+   <img src="https://books2read.com/b/3y6QDv alt="Pandemic Hacker" width="30" height="60" />
    <a img src="https://books2read.com/b/3y6QDv" alt="Pandemic Hacker" width="30" height="60" href="https://books2read.com/u/4j5Jxj">Pandemic Hacker</a>
   <a href="https://books2read.com/u/3LxrVN">Deal Hunter</a>
   <a href="https://books2read.com/u/3y6QDv">Sidney and Watson</a>
