@@ -22,7 +22,8 @@ Links to my books if your interested:
 
 <h2>Social Media and Websites</h2>
 <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  alt="Linkedin" width="45" height="45" href="https://www.linkedin.com/in/bryan-murphy">Murphy Linkedin.com</a>
+      <a href="https://www.linkedin.com/in/bryan-murphy">
+         <img alt="Linkedin" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
       <a href="https://authorbdmurphy.com">Website</a>
 </p>
 
