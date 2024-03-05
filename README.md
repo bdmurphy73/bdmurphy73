@@ -5,11 +5,11 @@ https://authorbdmurphy.com
 Links to my books if your interested:
 <p align="left">
    <a href="https://books2read.com/u/4j5Jxj">
-      <img alt="Pandemic Hacker" width="50" height="70" src="https://i0.wp.com/authorbdmurphy.com/wp-content/uploads/2023/09/Five-Star-cover-Pandemic-Hacker-B.D.-Murphy-RGB-scaled.jpg?resize=683%2C1024&ssl=1">Pandemic Hacker</a>
+      <img alt="Pandemic Hacker" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/FiveStarPH_400x600.png">Pandemic Hacker</a>
   <a href="https://books2read.com/u/3LxrVN"> 
-   <img alt="Deal Hunter" width="50" height="70" src="https://authorbdmurphy.com/wp-content/uploads/2024/03/CoverFinished_400x640.jpg">Deal Hunter</a>
+   <img alt="Deal Hunter" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/DealHunterCoverFinished_400x640.jpg">Deal Hunter</a>
   <a href="https://books2read.com/u/3y6QDv">
-   <img alt="Sidney and Watson" width="50" height="70" src="https://authorbdmurphy.com/wp-content/uploads/2023/11/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
+   <img alt="Sidney and Watson" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
   </p>
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
