@@ -5,7 +5,7 @@ https://authorbdmurphy.com
 Links to my books if your interested:
 <p align="left">
    <img src="https://i0.wp.com/authorbdmurphy.com/wp-content/uploads/2023/09/Five-Star-cover-Pandemic-Hacker-B.D.-Murphy-RGB-scaled.jpg?resize=683%2C1024&ssl=1" alt="Pandemic Hacker" width="50" height="70" />
-   <a alt="Pandemic Hacker" img src="https://i0.wp.com/authorbdmurphy.com/wp-content/uploads/2023/09/Five-Star-cover-Pandemic-Hacker-B.D.-Murphy-RGB-scaled.jpg?resize=683%2C1024&ssl=1" img width="50" img height="70"  href="https://books2read.com/u/4j5Jxj">Pandemic Hacker</a>
+   <a alt="Pandemic Hacker" img src="https://i0.wp.com/authorbdmurphy.com/wp-content/uploads/2023/09/Five-Star-cover-Pandemic-Hacker-B.D.-Murphy-RGB-scaled.jpg?resize=683%2C1024&ssl=1" / img width="50" img height="70"  href="https://books2read.com/u/4j5Jxj">Pandemic Hacker</a>
   <a href="https://books2read.com/u/3LxrVN">Deal Hunter</a>
   <a href="https://books2read.com/u/3y6QDv">Sidney and Watson</a>
 </p>
