@@ -35,7 +35,3 @@ Links to my books if your interested:
        <a href="https://www.buymeacoffee.com/authorp"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </p>
           
-          <!---
-bdmurphy73/bdmurphy73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
