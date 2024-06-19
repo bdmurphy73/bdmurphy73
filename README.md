@@ -28,7 +28,8 @@ Links to my books if your interested:
 <p align="left">
       <a href="https://www.linkedin.com/in/bryan-murphy">
          <img alt="Linkedin" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
-      <a href="https://authorbdmurphy.com">Website</a>
+      <a href="https://authorbdmurphy.com">
+         <img alt="AuthorBDMurphy.com" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/BDMurphy_Logo_Quil2.png">AuthorBDMurphy.com</a>
 </p>
    <h2>Support Me</h2>
    <p align="left">
