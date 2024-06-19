@@ -19,7 +19,7 @@ Links to my books if your interested:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPI" width="45" height="45" />
-          
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain.svg" alt="Postgresql" width="45" height="45" />          
           
           
 </p>
