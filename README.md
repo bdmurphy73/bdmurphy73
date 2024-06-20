@@ -1,4 +1,9 @@
 I'm an Electrical Engineer by education. I like learning and exploring new things and solving problems. I built this repository to start putting my utilities and projects instead of keeping them hidden on my home network. 
+My experience includes single board computer development with hardware (schematics, layout, bring up), enclosure, firmwware, and documentation. The product was used to control fuel injection on a four cyclinder engine.
+I have worked on many projects over time that were not part of any job title. The largest project was a charity auction system to manage gifts, baskets, live auction bidding capture. To make checkout faster I created a credit
+card number capture and secure storiage. Checkout involved the bidder providing their number and the sytsem printing a receipt of their purchases.
+Most of my professional expeirence is with computer hardware. Beyond simply Wintel I have experience with battery power and SSD storage.  Contact me if you want to get more details.
+
 Some of the repositories will be related to things I write about in my books or blogs.
 https://authorbdmurphy.com
 
