@@ -25,7 +25,7 @@ https://authorbdmurphy.com
       </a>
     </td>
     <td align="center" valign="bottom">
-      <a href="https://books2read.com/u/3y6QDv">
+      <a href="https://books2read.com/u/4E08e0">
         <img alt="Nanite Evolution" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/NE_front_400x633.jpg"><br>Nanite Evolution
       </a>
     </td>
@@ -33,7 +33,7 @@ https://authorbdmurphy.com
   
   <tr>
     <td align="center" valign="bottom">
-      <a href="https://books2read.com/u/3y6QDv">
+      <a href="https://books2read.com/u/4jjzvD">
         <img alt="Pandemic Hacker 2" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/PH2_Front_General_400x644_Awards.jpg"><br>Pandemic Hacker 2
       </a>
     </td>
