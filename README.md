@@ -1,13 +1,13 @@
-I'm an Electrical Engineer by education. I like learning and exploring new things and solving problems. I built this repository to start putting my utilities and projects instead of keeping them hidden on my home network. 
-My experience includes single board computer development with hardware (schematics, layout, bring up), enclosure, firmwware, and documentation. The product was used to control fuel injection on a four cyclinder engine.
-I have worked on many projects over time that were not part of any job title. The largest project was a charity auction system to manage gifts, baskets, live auction bidding capture. To make checkout faster I created a credit
-card number capture and secure storiage. Checkout involved the bidder providing their number and the sytsem printing a receipt of their purchases.
-Most of my professional expeirence is with computer hardware. Beyond simply Wintel I have experience with battery power and SSD storage.  Contact me if you want to get more details.
+I'm an Electrical Engineer by education. I like learning, exploring new things, and solving problems. I built this repository to start putting my utilities and projects instead of keeping them hidden on my home network. 
+My experience includes single-board computer development, including hardware (schematics, layout, bring-up), enclosure design, firmware, and documentation. The product was used to control fuel injection on a four-cylinder engine.
+I have worked on many projects over time that were not part of any job title. The largest project was a charity auction system to manage gifts, baskets, and live auction bidding capture. To make checkout faster, I created a credit
+card number capture and secure storage. Checkout involved the bidder providing their number and the system printing a receipt of their purchases.
+Most of my professional experience is with computer hardware. Beyond simply Wintel, I have experience with battery power and SSD storage.  Contact me if you want to get more details.
 
 Some of the repositories will be related to things I write about in my books or blogs.
 https://authorbdmurphy.com
 
-Links to my books if your interested:
+Links to my books if you're interested:
 <p align="left">
    <a href="https://books2read.com/u/4j5Jxj">
       <img alt="Pandemic Hacker" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/FiveStarPH_400x600.png">Pandemic Hacker</a>
@@ -16,6 +16,16 @@ Links to my books if your interested:
   <a href="https://books2read.com/u/3y6QDv">
    <img alt="Sidney and Watson" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
   </p>
+  <a href="https://books2read.com/u/3y6QDv">
+   <img alt="Nanite Evolution" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
+  </p>
+  <a href="https://books2read.com/u/3y6QDv">
+   <img alt="Pandemic Hacker 2" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
+  </p>
+  <a href="https://books2read.com/u/3y6QDv">
+   <img alt="The Last Dwarf" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
+  </p>
+
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
