@@ -7,22 +7,43 @@ Most of my professional experience is with computer hardware. Beyond simply Wint
 Some of the repositories will be related to things I write about in my books or blogs.
 https://authorbdmurphy.com
 
-Links to my books if you're interested:
-<p align="left">
-   <a href="https://books2read.com/u/4j5Jxj">
-      <img alt="Pandemic Hacker" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/FiveStarPH_400x600.png">Pandemic Hacker</a>
-  <a href="https://books2read.com/u/3LxrVN"> 
-   <img alt="Deal Hunter" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/DealHunterCoverFinished_400x640.jpg">Deal Hunter</a>
-  <a href="https://books2read.com/u/3y6QDv">
-   <img alt="Sidney and Watson" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
-  <a href="https://books2read.com/u/3y6QDv">
-   <img alt="Nanite Evolution" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/NE_front_400x633.jpg">Nanite Evolution</a>
-  <a href="https://books2read.com/u/3y6QDv">
-   <img alt="Pandemic Hacker 2" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/PH2_Front_General_400x644_Awards.jpg">Pandemic Hacker 2</a>
-  <a href="https://books2read.com/u/bPAD27">
-   <img alt="The Last Dwarf" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/TLD_front_Cover_400x622.jpg">The Last Dwarf</a>
-  </p>
-
+<table>
+  <tr>
+    <td align="center" valign="bottom">
+      <a href="https://books2read.com/u/4j5Jxj">
+        <img alt="Pandemic Hacker" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/FiveStarPH_400x600.png"><br>Pandemic Hacker
+      </a>
+    </td>
+    <td align="center" valign="bottom">
+      <a href="https://books2read.com/u/3LxrVN">
+        <img alt="Deal Hunter" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/DealHunterCoverFinished_400x640.jpg"><br>Deal Hunter
+      </a>
+    </td>
+    <td align="center" valign="bottom">
+      <a href="https://books2read.com/u/3y6QDv">
+        <img alt="Sidney and Watson" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg"><br>Sidney and Watson
+      </a>
+    </td>
+    <td align="center" valign="bottom">
+      <a href="https://books2read.com/u/3y6QDv">
+        <img alt="Nanite Evolution" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/NE_front_400x633.jpg"><br>Nanite Evolution
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="bottom">
+      <a href="https://books2read.com/u/3y6QDv">
+        <img alt="Pandemic Hacker 2" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/PH2_Front_General_400x644_Awards.jpg"><br>Pandemic Hacker 2
+      </a>
+    </td>
+    <td align="center" valign="bottom">
+      <a href="https://books2read.com/u/bPAD27">
+        <img alt="The Last Dwarf" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/TLD_front_Cover_400x622.jpg"><br>The Last Dwarf
+      </a>
+    </td>
+    <td></td> <td></td> </tr>
+</table>
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
