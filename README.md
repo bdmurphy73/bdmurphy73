@@ -15,15 +15,12 @@ Links to my books if you're interested:
    <img alt="Deal Hunter" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/DealHunterCoverFinished_400x640.jpg">Deal Hunter</a>
   <a href="https://books2read.com/u/3y6QDv">
    <img alt="Sidney and Watson" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
-  </p>
   <a href="https://books2read.com/u/3y6QDv">
-   <img alt="Nanite Evolution" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
-  </p>
+   <img alt="Nanite Evolution" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/NE_front_400x633.jpg">Nanite Evolution</a>
   <a href="https://books2read.com/u/3y6QDv">
-   <img alt="Pandemic Hacker 2" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
-  </p>
-  <a href="https://books2read.com/u/3y6QDv">
-   <img alt="The Last Dwarf" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/SW-FrontCover_400x640.jpg">Sidney and Watson</a>
+   <img alt="Pandemic Hacker 2" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/PH2_Front_General_400x644_Awards.jpg">Pandemic Hacker 2</a>
+  <a href="https://books2read.com/u/bPAD27">
+   <img alt="The Last Dwarf" width="50" height="70" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/TLD_front_Cover_400x622.jpg">The Last Dwarf</a>
   </p>
 
   
